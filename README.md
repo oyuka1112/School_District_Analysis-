@@ -1,6 +1,6 @@
 # School District Analysis on Python
 ## Overview of the school district analysis
-The purpose of the School District Analysis project is to get useful informations from the given dataset using [python pandas package](https://pandas.pydata.org/docs/getting_started/overview.html) on jupyter notebook. The dataset includes reading and math scores of each students from 15 different high schools (9th to 12th grade). The snapshot of the district metics presented in a table format below. 
+The purpose of the School District Analysis project is to get useful information from the given dataset using [python pandas package](https://pandas.pydata.org/docs/getting_started/overview.html) on jupyter notebook. The dataset includes reading and math scores of each students from 15 different high schools (9th to 12th grade). The snapshot of the district metics presented in a table format below. 
 ![](https://user-images.githubusercontent.com/64121596/142295953-cb4cf7e9-2af6-4018-b083-03bcfcc0d84e.png)
 
 
